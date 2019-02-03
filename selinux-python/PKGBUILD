@@ -9,7 +9,7 @@ pkgver=2.8
 pkgrel=3
 pkgdesc="SELinux python tools and libraries"
 groups=('selinux')
-arch=('i686' 'x86_64')
+arch=('any')
 url='https://github.com/SELinuxProject/selinux/wiki'
 license=('GPL2')
 makedepends=('python2' 'python' 'python-ipy' 'libsemanage>=2.8' 'setools>=4.0.0')
